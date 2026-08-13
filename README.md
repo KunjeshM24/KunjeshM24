@@ -1,20 +1,28 @@
 <h1 align="center">Hi 👋, I'm Kunjesh Mahajan</h1>
-<h3 align="center">Full-Stack Developer | Co-Founder @ ShipReady | Competitive Programmer</h3>
+
+<p align="center">
+  <img src="./banner.jpg" alt="banner" width="100%" />
+</p>
+
+<h3 align="center">Co-Founder @ ShipReady | Competitive Programmer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Co-Founder+%40+ShipReady;1000%2B+LeetCode+problems+solved;Turning+ideas+into+working+code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KunjeshM24&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Information Technology @ S.G.S.I.T.S., Indore — GPA 8.56
-- 💼 Co-Founder of **[ShipReady](https://github.com/KunjeshM24)** — a tool that scans AI-built apps for security issues before launch
-- 🧠 Solved **1000+ problems** on LeetCode (Peak rating: 1686)
+- 💼 Co-Founder of **[ShipReady](https://useshipready.dev/)** — a tool that scans AI-built apps for security issues before launch
 - 🏆 2nd place in a Project Exhibition out of 1000+ teams
 - ♟️ 1st place, India College Chess Championship
 - 🌱 Currently building full-stack products and sharing the build-in-public journey
+- 🧩 LeetCode: [Kunjesh_Mahajan](https://leetcode.com/u/Kunjesh_Mahajan/) · Codeforces: [kunjeshsgsits4](https://codeforces.com/profile/kunjeshsgsits4) · CodeChef: [kunjeshmahajan](https://www.codechef.com/users/kunjeshmahajan)
 - 📫 Reach me at **kunjesh4work@gmail.com**
 
 ---
@@ -60,14 +68,19 @@
 
 ### 💡 Featured Projects
 
-- **[ShipReady](https://github.com/KunjeshM24)** — Scans AI-built apps for security issues before launch. Co-founded and leading marketing/growth.
-- **Navvi** — AI-powered trip planner built with React.js and Google Gen AI APIs, generating real-time personalized itineraries with NLP-based recommendations.
-- **Chatty** — Real-time chat app on the MERN stack + Socket.IO, supporting 50+ concurrent users with sub-200ms latency, secure auth, and 32 custom themes.
-- **College WiFi Management Portal** — Full-stack portal (React.js, Node.js, MySQL) managing WiFi/Switch access for 5000+ users with a JWT-secured admin dashboard.
+- **[ShipReady](https://useshipready.dev/)** — Scans AI-built apps for security issues before launch. Co-founded and leading marketing/growth.
+- **[Navvi](https://ai-trip-planner-sage.vercel.app/)** — AI-powered trip planner built with React.js and Google Gen AI APIs, generating real-time personalized itineraries with NLP-based recommendations.
+- **[Chatty](https://fullstack-chat-website.onrender.com/login)** — Real-time chat app on the MERN stack + Socket.IO, supporting 50+ concurrent users with sub-200ms latency, secure auth, and 32 custom themes.
+- **[College WiFi Management Portal](https://www.sgsits.ac.in/)** — Full-stack portal (React.js, Node.js, MySQL) managing WiFi/Switch access for 5000+ users with a JWT-secured admin dashboard.
+- **Freelance Work** — Delivered 2-3 freelance projects for clients, covering full-stack development from requirements to deployment.
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunjeshM24&show_icons=true&theme=tokyonight&count_private=true" />
