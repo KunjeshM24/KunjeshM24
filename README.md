@@ -75,11 +75,9 @@
 
 ---
  
-<p align="center">
-  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="40" alt="GitHub Copilot" />
-</p>
-### GitHub Stats
- 
+<h3 align="center">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=githubcopilot&logoColor=white" width="28" alt="GitHub Copilot" /> GitHub Stats
+</h3>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunjeshM24&show_icons=true&theme=dracula" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjeshM24&layout=compact&theme=dracula" />
@@ -87,7 +85,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjeshM24&theme=dracula" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me
