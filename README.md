@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunjesh Mahajan</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.jpg" alt="banner" width="100%" />
-</p>
+</p> -->
 
 <h3 align="center">Co-Founder @ ShipReady | Competitive Programmer | Software Engineer</h3>
 
