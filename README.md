@@ -19,9 +19,8 @@
 ### 🚀 About Me
 
 - 💼 Co-Founder of **[ShipReady](https://useshipready.dev/)** — a tool that scans AI-built apps for security issues before launch
-- 🏆 2nd place in a Project Exhibition out of 1000+ teams
 - ♟️ 1st place, India College Chess Championship
-- 🌱 Currently building full-stack products and sharing the build-in-public journey
+- 🏆 2nd place in a Project Exhibition out of 1000+ teams
 - 🧩 LeetCode: [Kunjesh_Mahajan](https://leetcode.com/u/Kunjesh_Mahajan/) · Codeforces: [kunjeshsgsits4](https://codeforces.com/profile/kunjeshsgsits4) · CodeChef: [kunjeshmahajan](https://www.codechef.com/users/kunjeshmahajan)
 - 📫 Reach me at **kunjesh4work@gmail.com**
 
@@ -75,20 +74,18 @@
 - **Freelance Work** — Delivered 2-3 freelance projects for clients, covering full-stack development from requirements to deployment.
 
 ---
-
+ 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="40" alt="GitHub Copilot" />
 </p>
-
 ### GitHub Stats
-
+ 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunjeshM24&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjeshM24&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunjeshM24&show_icons=true&theme=dracula" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjeshM24&layout=compact&theme=dracula" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjeshM24&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunjeshM24&theme=dracula" />
 </p>
 
 ---
